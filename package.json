@@ -1,0 +1,19 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "Test directory to learn Git and Node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Maxsus@bitbucket.org/Maxsus/git-test.git"
+  },
+  "author": "MaxSus",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Maxsus/git-test#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
